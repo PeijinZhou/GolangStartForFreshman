@@ -1,0 +1,2 @@
+# GolangStartForFreshman
+ None
